@@ -39,47 +39,15 @@ Download the latest Android APK directly:
 
 Found a bug, have an issue, or want to suggest a new feature? Please let us know below.
 
-<form action="https://formsubmit.co/pourushsiddharth@gmail.com" method="POST" style="max-width: 540px; margin: 20px 0; font-family: inherit;">
-  <!-- FormSubmit configuration: Zero storage, direct to Gmail -->
-  <input type="hidden" name="_subject" value="New WeGo Feedback / Bug Report">
-  <input type="hidden" name="_captcha" value="false">
-  <input type="hidden" name="_template" value="table">
+<div style="max-width: 640px; margin: 20px 0;">
+  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScQIfnw_mQl2Nf0sVul1EevbM-F20f066Hy5hFk7-UqbIhPBA/viewform?embedded=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0" style="border: 1px solid #e2e8f0; border-radius: 8px; width: 100%;">Loading…</iframe>
 
-  <div style="margin-bottom: 14px;">
-    <label for="name" style="display: block; font-weight: 600; margin-bottom: 6px;">Your Name:</label>
-    <input type="text" id="name" name="name" placeholder="e.g. Rahul Sharma" required style="width: 100%; padding: 10px 12px; border: 1px solid #ccc; border-radius: 6px; font-size: 14px; box-sizing: border-box;" />
+  <div style="margin-top: 12px;">
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLScQIfnw_mQl2Nf0sVul1EevbM-F20f066Hy5hFk7-UqbIhPBA/viewform" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #2563eb; color: #ffffff; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: 600; font-size: 14px;">
+      Open Feedback Form in New Tab ↗
+    </a>
   </div>
-
-  <div style="margin-bottom: 14px;">
-    <label for="email" style="display: block; font-weight: 600; margin-bottom: 6px;">Your Email (optional, for reply):</label>
-    <input type="email" id="email" name="email" placeholder="e.g. rahul@example.com" style="width: 100%; padding: 10px 12px; border: 1px solid #ccc; border-radius: 6px; font-size: 14px; box-sizing: border-box;" />
-  </div>
-
-  <div style="margin-bottom: 14px;">
-    <label for="type" style="display: block; font-weight: 600; margin-bottom: 6px;">Type of Feedback:</label>
-    <select id="type" name="feedback_type" style="width: 100%; padding: 10px 12px; border: 1px solid #ccc; border-radius: 6px; font-size: 14px; box-sizing: border-box; background: white;">
-      <option value="bug">Bug Report / Something isn't working</option>
-      <option value="crash">App Crash / Freeze</option>
-      <option value="location">GPS / Location Tracking Issue</option>
-      <option value="feature">Feature Suggestion</option>
-      <option value="other">General Feedback</option>
-    </select>
-  </div>
-
-  <div style="margin-bottom: 14px;">
-    <label for="device" style="display: block; font-weight: 600; margin-bottom: 6px;">Your Phone Model & Android Version:</label>
-    <input type="text" id="device" name="device_info" placeholder="e.g. Samsung Galaxy S23, Android 14" style="width: 100%; padding: 10px 12px; border: 1px solid #ccc; border-radius: 6px; font-size: 14px; box-sizing: border-box;" />
-  </div>
-
-  <div style="margin-bottom: 14px;">
-    <label for="message" style="display: block; font-weight: 600; margin-bottom: 6px;">Details / Message:</label>
-    <textarea id="message" name="message" rows="5" placeholder="Describe what happened or what you would like to see..." required style="width: 100%; padding: 10px 12px; border: 1px solid #ccc; border-radius: 6px; font-size: 14px; box-sizing: border-box; resize: vertical;"></textarea>
-  </div>
-
-  <button type="submit" style="background-color: #2563eb; color: #ffffff; padding: 12px 24px; border: none; border-radius: 6px; font-size: 15px; font-weight: 600; cursor: pointer;">
-    Submit Feedback
-  </button>
-</form>
+</div>
 
 ---
 
