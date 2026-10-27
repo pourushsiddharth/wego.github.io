@@ -8,7 +8,7 @@ WeGo is a mobile app built for group trips, road trips, and bike rides. When you
 
 Download the latest Android APK directly:
 
-**[Download WeGo APK (v1.0.0)](https://github.com/pourushsiddharth/wego.gtihub.io/releases/latest)**
+**[Download WeGo APK (v1.0.0)](https://github.com/pourushsiddharth/wego.github.io/releases/latest)**
 
 *Note: Since you are installing the APK directly, your phone may ask you to "Allow installation from unknown sources". This is normal for apps installed outside the Google Play Store.*
 
@@ -79,7 +79,7 @@ Found a bug, have an issue, or want to suggest a new feature? Please let us know
 ---
 
 ### Other Ways to Reach Out
-- **Report on GitHub:** [Open an Issue](https://github.com/pourushsiddharth/wego.gtihub.io/issues)
+- **Report on GitHub:** [Open an Issue](https://github.com/pourushsiddharth/wego.github.io/issues)
 - **Email:** [classesjnp@gmail.com](mailto:classesjnp@gmail.com)
 
 ---
