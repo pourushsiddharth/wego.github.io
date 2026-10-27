@@ -39,7 +39,12 @@ Download the latest Android APK directly:
 
 Found a bug, have an issue, or want to suggest a new feature? Please let us know below.
 
-<form action="https://formspree.io/f/YOUR_FORM_ID" method="POST" style="max-width: 540px; margin: 20px 0; font-family: inherit;">
+<form action="https://formsubmit.co/pourushsiddharth@gmail.com" method="POST" style="max-width: 540px; margin: 20px 0; font-family: inherit;">
+  <!-- FormSubmit configuration: Zero storage, direct to Gmail -->
+  <input type="hidden" name="_subject" value="New WeGo Feedback / Bug Report">
+  <input type="hidden" name="_captcha" value="false">
+  <input type="hidden" name="_template" value="table">
+
   <div style="margin-bottom: 14px;">
     <label for="name" style="display: block; font-weight: 600; margin-bottom: 6px;">Your Name:</label>
     <input type="text" id="name" name="name" placeholder="e.g. Rahul Sharma" required style="width: 100%; padding: 10px 12px; border: 1px solid #ccc; border-radius: 6px; font-size: 14px; box-sizing: border-box;" />
