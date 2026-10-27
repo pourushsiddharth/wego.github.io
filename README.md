@@ -80,7 +80,7 @@ Found a bug, have an issue, or want to suggest a new feature? Please let us know
 
 ### Other Ways to Reach Out
 - **Report on GitHub:** [Open an Issue](https://github.com/pourushsiddharth/wego.github.io/issues)
-- **Email:** [classesjnp@gmail.com](mailto:classesjnp@gmail.com)
+- **Email:** [pourushsiddharth@gmail.com](mailto:pourushsiddharth@gmail.com)
 
 ---
 
