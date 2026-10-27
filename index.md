@@ -44,7 +44,7 @@ Found a bug, have an issue, or want to suggest a new feature? Please let us know
 
   <div style="margin-top: 12px;">
     <a href="https://docs.google.com/forms/d/e/1FAIpQLScQIfnw_mQl2Nf0sVul1EevbM-F20f066Hy5hFk7-UqbIhPBA/viewform" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #2563eb; color: #ffffff; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: 600; font-size: 14px;">
-      Open Feedback Form in New Tab ↗
+      Open Feedback Form in New Tab
     </a>
   </div>
 </div>
